@@ -1,0 +1,16 @@
+name: llama-rag
+channels:
+  - defaults
+dependencies:
+  - langchain
+  - langchain-chroma
+  - langchain-community
+  - ipykernel
+  - pypdf2
+  - pypdf
+  - sentence-transformers
+  - arxiv
+  - pymupdf
+  - ipywidgets
+  - langchain-huggingface
+prefix: /home/alex/anaconda3/envs/llama-rag

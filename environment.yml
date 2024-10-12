@@ -1,6 +1,7 @@
 name: llama-rag
 channels:
   - defaults
+  - conda-forge
 dependencies:
   - langchain
   - langchain-chroma
